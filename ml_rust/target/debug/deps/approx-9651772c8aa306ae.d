@@ -1,0 +1,11 @@
+C:\Users\cata\Documents\projects\git\ml_rust\ml_rust\target\debug\deps\libapprox-9651772c8aa306ae.rmeta: C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs
+
+C:\Users\cata\Documents\projects\git\ml_rust\ml_rust\target\debug\deps\libapprox-9651772c8aa306ae.rlib: C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs
+
+C:\Users\cata\Documents\projects\git\ml_rust\ml_rust\target\debug\deps\approx-9651772c8aa306ae.d: C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs
+
+C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs:
+C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs:
+C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs:
+C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs:
+C:\Users\cata\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs:
